@@ -3,10 +3,10 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>Monthly_planner</name>
+            <name>sixth_sense</name>
             <source-roots>
                 <root id="src.dir" name="src"/>
-                <root id="gen.dir" name="gen"/>
+                <root id="gen.dir"/>
             </source-roots>
             <test-roots/>
         </data>
